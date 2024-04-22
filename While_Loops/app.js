@@ -49,4 +49,5 @@ if (guess === 'q') {
 } else {
     console.log("CONGRATS YOU WIN!")
     console.log(`You got it! It took you ${attempts} guesses`)
+    console.log("This is a test")
 }
